@@ -1,8 +1,6 @@
 cffi==1.15.1
 clr-loader==0.2.5
-pathlib==1.0.1
 Pillow==9.5.0
-polars==0.18.0
 pycparser==2.21
 pythonnet==3.0.1
 pywin32==306
